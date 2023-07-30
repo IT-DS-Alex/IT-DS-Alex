@@ -4,7 +4,7 @@
 
 ### Навыки и опыт
 
-Python Pandas Matplotlib NumPy SciPy Seaborn Scikit-learn LogisticRegression RandomForestClassifier DecisionTreeClassifier DummyClassifier Lightgbm Statsmodels BERT Nltk Tf-idf SQL МL Lightgbm Catboost Xgboost
+Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / LogisticRegression / RandomForestClassifier / DecisionTreeClassifier / DummyClassifier / Lightgbm / Statsmodels / BERT / Nltk / Tf-idf / SQL / МL / Lightgbm / Catboost / Xgboost
 
 Выполнил 16 проектов, которые описаны в репозитории Portfolio.
 
