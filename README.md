@@ -13,7 +13,18 @@ Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / Logistic
 
 почта: it-alexisakov@yandex.ru
 
+
+
 ### Ссылка
 www.kaggle.com/alekseypyton2022
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-DS-Alex)](https://github.com/IT-DS-Alex/github-readme-stats)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+</div>
