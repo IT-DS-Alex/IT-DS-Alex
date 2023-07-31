@@ -13,7 +13,7 @@ Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / Logistic
 
 почта: it-alexisakov@yandex.ru
 
-https://t.me/ITDS_Alex
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania) https://t.me/ITDS_Alex
 
 ### Ссылка
 www.kaggle.com/alekseypyton2022
