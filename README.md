@@ -13,12 +13,10 @@ Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / Logistic
 
 почта: it-alexisakov@yandex.ru
 
-
+https://t.me/ITDS_Alex
 
 ### Ссылка
 www.kaggle.com/alekseypyton2022
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-DS-Alex)](https://github.com/IT-DS-Alex/github-readme-stats)
 
 ---
 
