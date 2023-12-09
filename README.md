@@ -6,9 +6,9 @@
 
 Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / LogisticRegression / RandomForestClassifier / DecisionTreeClassifier / DummyClassifier / Lightgbm / Statsmodels / BERT / Nltk / Tf-idf / SQL / МL / Lightgbm / Catboost / Xgboost
 
-Выполнил 16 проектов, которые описаны в репозитории *Portfolio*.
+Выполнил 16 проектов, которые описаны в репозитории ***Portfolio***.
 
-Продолжаю совершенствовать навыки и получать опыт работы с реальными данными, размещаю новые проекты в репозитории *Relevant-experience*. 
+Продолжаю совершенствовать навыки и получать опыт работы с реальными данными, размещаю новые проекты в репозитории **Relevant-experience**. 
 
 ### Контакты
 тел.: 8-930-340-73-32 (WhatsApp)
