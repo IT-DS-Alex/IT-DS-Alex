@@ -22,7 +22,7 @@ Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / Logistic
 www.kaggle.com/alekseypyton2022
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://https://github.com/IT-DS-Alex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-DS-Alex&layout=compact)](https://https://github.com/IT-DS-Alex)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ### Languages and Tools :
 
