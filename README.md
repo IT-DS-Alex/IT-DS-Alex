@@ -2,7 +2,7 @@
 
 Начинающий специалист Data Science, все свободное время посвещаю изучению новейших инструментов и методологий, активно ищу компанию своей мечты.
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=IT-DS-Alex&style=for-the-badge)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=IT-DS-Alex&style=for-the-badge&label=Считаем+просмотры+строницы)
 ### Навыки и опыт
 
 Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / LogisticRegression / RandomForestClassifier / DecisionTreeClassifier / DummyClassifier / Lightgbm / Statsmodels / BERT / Nltk / Tf-idf / SQL / МL / Lightgbm / Catboost / Xgboost
