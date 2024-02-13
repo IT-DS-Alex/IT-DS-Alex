@@ -22,7 +22,7 @@ Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / Logistic
 www.kaggle.com/alekseypyton2022
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-DS-Alex&layout=compact)](https://https://github.com/IT-DS-Alex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-DS-Alex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ### Languages and Tools :
 
@@ -33,4 +33,4 @@ www.kaggle.com/alekseypyton2022
 <a href="https://pandas.pydata.org" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="80" height="60"/> </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>
 </div>
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
