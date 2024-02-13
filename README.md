@@ -9,7 +9,7 @@ Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / Logistic
 Выполнил 16 проектов, которые описаны в репозитории ***Portfolio***.
 
 Продолжаю совершенствовать навыки и получать опыт работы с реальными данными, размещаю новые проекты в репозитории **Relevant-experience**. 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://https://github.com/IT-DS-Alex))
+
 ### Контакты
 тел.: 8-930-340-73-32 (WhatsApp)
 
@@ -21,7 +21,7 @@ Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / Logistic
 www.kaggle.com/alekseypyton2022
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://https://github.com/IT-DS-Alex))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://https://github.com/IT-DS-Alex)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ### Languages and Tools :
 
