@@ -9,7 +9,7 @@ Python / Pandas / Matplotlib / NumPy / SciPy / Seaborn / Scikit-learn / Logistic
 Выполнил 16 проектов, которые описаны в репозитории ***Portfolio***.
 
 Продолжаю совершенствовать навыки и получать опыт работы с реальными данными, размещаю новые проекты в репозитории **Relevant-experience**. 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Контакты
 тел.: 8-930-340-73-32 (WhatsApp)
 
